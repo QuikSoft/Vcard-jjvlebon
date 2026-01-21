@@ -9,26 +9,14 @@ TITLE:Global Pre-Sales Consultant
 ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
 TEL;TYPE=Work,pref:
 TEL;CELL;TYPE=Mobile,VOICE:+31644079036
-TEL;TYPE=WORK,VOICE:
 
-TEL;TYPE=Work,Fax:
-TEL;TYPE=Home,VOICE:
-TEL;TYPE=sms:
-URL;TYPE=Messenger:
-TEL;TYPE=SIGNAL:
 EMAIL;TYPE=Email:jjvlebon@gn.com
 URL;TYPE=Digital Business Card:
-
-
 
 URL;TYPE=Location:
 KEY:OPENPGP4FPR:
 UID:SMART vCARD-100043741
 URL;TYPE=Website:https://www.jabra.com/
-
-URL;TYPE=Calendar:
-URL;TYPE=WhatsApp:
-URL;TYPE=WeChat:
 
 URL;TYPE=Linkedin:https://www.linkedin.com/in/jeroenlebon/
 URL;TYPE=Twitter:https://x.com/We_are_Jabra

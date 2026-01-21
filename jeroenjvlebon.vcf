@@ -10,10 +10,7 @@ ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
 TEL;TYPE=Work,pref:
 TEL;CELL;TYPE=Mobile,VOICE:+31644079036
 
-EMAIL;TYPE=Email:jjvlebon@gn.com
-URL;TYPE=Digital Business Card:
-
-URL;TYPE=Location:
+EMAIL;TYPE=Work:jjvlebon@gn.com
 KEY:OPENPGP4FPR:
 UID:SMART vCARD-100043741
 URL;TYPE=Website:https://www.jabra.com/
